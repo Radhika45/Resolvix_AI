@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+workflow.log
+data/
+output/
+
+.env
+.env.*
+!.env.example
