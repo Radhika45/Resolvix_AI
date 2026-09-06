@@ -1,4 +1,4 @@
-# 🤖 ComplaintIQ-AI-Powered Customer Complaint & Business Workflow Automation System
+# 🤖 Resolvix-AI-Powered Customer Complaint & Business Workflow Automation System
 
 ### Enterprise-Ready GenAI Workflow for Complaint Processing, Case Generation & Executive Reporting
 
