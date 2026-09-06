@@ -6,7 +6,7 @@ from pathlib import Path
 LOG_FILE = Path("workflow.log")
 
 # Configure logger
-logger = logging.getLogger("AI_Document_Processor")
+logger = logging.getLogger("Resolvix_AI")
 logger.setLevel(logging.INFO)
 
 # Formatter
