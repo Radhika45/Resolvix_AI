@@ -1665,13 +1665,15 @@ Special thanks to the open-source and developer communities behind the technolog
 
 ---
 
-# 📄 License
+## 📄 License
 
-This project is licensed under the **MIT License**.
+Resolvix AI is released under the **MIT License**.
 
-See the [`LICENSE`](LICENSE) file for details.
+This license permits anyone to use, copy, modify, merge, publish, distribute, sublicense, and sell copies of the software, subject to the terms and conditions of the MIT License.
 
----
+See the [`LICENSE`](LICENSE) file for the complete license text.
+
+it---
 
 # ⭐ Project Summary
 
