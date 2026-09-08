@@ -1,16 +1,19 @@
 # 🚀 Resolvix AI
 
-### Enterprise-Grade AI-Powered Customer Complaint & Case Processing System
+Resolvix AI is an intelligent document-processing platform that automates the handling of customer complaints and support cases. The system converts unstructured documents into structured business data, generates customer response emails, creates executive summaries, and stores processed records for analytics and reporting.
+An autonomous, multi-modal GenAI document intelligence workflow engineered to transform unstructured customer complaints into structured operational data, automated customer response dispatches, and executive summaries.
 
-**Resolvix AI** is an autonomous, multi-modal Generative AI document-intelligence platform designed to transform unstructured customer complaints into **validated structured data, intelligent customer responses, executive case summaries, persistent case records, and actionable analytics**.
+[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge\&logo=python\&logoColor=white)](https://www.python.org/)
+[![Groq Cloud](https://img.shields.io/badge/Inference-Groq%20Cloud-f50537?style=for-the-badge\&logo=groq\&logoColor=white)](https://groq.com/)
+[![Ollama](https://img.shields.io/badge/Local%20LLM-Ollama-000000?style=for-the-badge\&logo=ollama\&logoColor=white)](https://ollama.ai/)
+[![Llama 3.2](https://img.shields.io/badge/Model-Meta%20Llama%203.2%20\(3B\)-0467DF?style=for-the-badge\&logo=meta\&logoColor=white)](https://ai.meta.com/llama/)
+[![Pydantic v2](https://img.shields.io/badge/Validation-Pydantic%20v2-E92063?style=for-the-badge\&logo=pydantic\&logoColor=white)](https://docs.pydantic.dev/)
+[![Streamlit](https://img.shields.io/badge/Dashboard-Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)](https://streamlit.io/)
+[![MongoDB Atlas](https://img.shields.io/badge/Database-MongoDB%20Atlas-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)](https://www.mongodb.com/cloud/atlas)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 
-The system combines **document parsing, OCR, Large Language Models (LLMs), structured-output validation, asynchronous processing, automated email communication, MongoDB persistence, and a Streamlit analytics dashboard** into a unified end-to-end workflow.
+**[Live App Demo](https://resolvix-ai.streamlit.app)** • **[System Architecture](#-system-architecture)** • **[Installation Guide](#-installation)** • **[Running Steps](#-running-the-application)** • **[Assessment Mapping](#-assessment-requirements-mapping)**
 
-> **Project Type:** Final-Year B.Tech Computer Science & Engineering Project
-> **Domain:** Generative AI • NLP • Document Intelligence • Automation • Cloud Computing
-> **Academic Year:** 2025–2026
-
----
 
 ## 📚 Table of Contents
 
