@@ -12,18 +12,24 @@ An autonomous, multi-modal GenAI document intelligence workflow engineered to tr
 [![MongoDB Atlas](https://img.shields.io/badge/Database-MongoDB%20Atlas-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)](https://www.mongodb.com/cloud/atlas)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 
-**[Live App Demo](https://resolvix-ai.streamlit.app)** • **[System Architecture](#-system-architecture)** • **[Installation Guide](#-installation)** • **[Running Steps](#-running-the-application)** • **[Assessment Mapping](#-assessment-requirements-mapping)**
-
 
 ## 📚 Table of Contents
+
+### 🎯 1. Project Introduction
 
 * [🎯 Project Overview](#-project-overview)
 * [✨ Key Highlights](#-key-highlights)
 * [🌐 Live Demo & Resources](#-live-demo--resources)
 * [🎥 Demo Preview](#-demo-preview)
+
+### 💡 2. Problem & Solution
+
 * [❗ Problem Statement](#-problem-statement)
 * [🎯 Objectives](#-objectives)
 * [💡 Proposed Solution](#-proposed-solution)
+
+### 🏗️ 3. System Design & Architecture
+
 * [🏗️ System Architecture](#️-system-architecture)
 * [🔄 End-to-End Workflow](#-end-to-end-workflow)
 * [🧠 AI & LLM Architecture](#-ai--llm-architecture)
@@ -33,28 +39,43 @@ An autonomous, multi-modal GenAI document intelligence workflow engineered to tr
 * [📧 Automated Customer Communication](#-automated-customer-communication)
 * [🗄️ Database Architecture](#️-database-architecture)
 * [📊 Analytics & Reporting](#-analytics--reporting)
+
+### 🧩 4. Features & Technology
+
 * [✨ Key Features](#-key-features)
 * [🛠️ Technology Stack](#️-technology-stack)
 * [📂 Project Structure](#-project-structure)
 * [📋 Data Model & Schema](#-data-model--schema)
+
+### ⚙️ 5. Setup & Usage
+
 * [🔐 Configuration](#-configuration)
 * [⚙️ Installation](#️-installation)
 * [🚀 Running the Application](#-running-the-application)
 * [💡 Usage Guide](#-usage-guide)
+
+### 🧪 6. Testing & Evaluation
+
 * [🧪 Testing & Validation](#-testing--validation)
 * [📈 Performance & Evaluation](#-performance--evaluation)
 * [📝 Sample Input & Output](#-sample-input--output)
+
+### 🔒 7. Engineering, Security & Roadmap
+
 * [🛠️ Engineering Challenges & Solutions](#️-engineering-challenges--solutions)
 * [🔒 Security Considerations](#-security-considerations)
 * [⚠️ Limitations](#️-limitations)
 * [🔮 Future Enhancements](#-future-enhancements)
+
+### 🎓 8. Academic & Project Information
+
 * [🎓 Assessment Requirements Mapping](#-assessment-requirements-mapping)
 * [🧠 Key Learnings](#-key-learnings)
 * [👩‍💻 Author](#-author)
 * [🙏 Acknowledgements](#-acknowledgements)
 * [📄 License](#-license)
 
----
+### 🎯 1. Project Introduction
 
 # 🎯 Project Overview
 
@@ -176,6 +197,7 @@ A complete demonstration should cover:
 ```
 
 ---
+### 💡 2. Problem & Solution
 
 # ❗ Problem Statement
 
@@ -291,6 +313,7 @@ Resolvix AI implements an automated document-intelligence pipeline.
 ```
 
 ---
+### 🏗️ 3. System Design & Architecture
 
 # 🏗️ System Architecture
 
@@ -706,7 +729,7 @@ JSON
 This allows processed data to be used by external reporting or business-intelligence workflows.
 
 ---
-
+### 🧩 4. Features & Technology
 # ✨ Key Features
 
 | Feature                   | Description                                                             |
@@ -835,6 +858,7 @@ The core complaint schema contains the following fields:
 
 ---
 
+### ⚙️ 5. Setup & Usage
 # 🔐 Configuration
 
 Resolvix AI uses environment variables for external services and sensitive configuration.
@@ -1085,6 +1109,7 @@ Use the analytics dashboard to inspect historical cases and export data.
 
 ---
 
+### 🧪 6. Testing & Evaluation
 # 🧪 Testing & Validation
 
 Testing should verify both conventional software behavior and AI-pipeline reliability.
@@ -1266,6 +1291,7 @@ process.
 
 ---
 
+### 🔒 7. Engineering, Security & Roadmap
 # 🛠️ Engineering Challenges & Solutions
 
 ## 1. API Rate Limiting
@@ -1534,6 +1560,7 @@ Add an evaluation framework for:
 
 ---
 
+### 🎓 8. Academic & Project Information
 # 🎓 Assessment Requirements Mapping
 
 The project requirements can be mapped directly to their technical implementations.
